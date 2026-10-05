@@ -311,10 +311,6 @@ The following screenshots are included in the `assets/` folder so that they disp
 
 
 
-> 💡 **GitHub tip:** Keep the `assets` folder beside `README.md`. Do not move or rename the screenshot files unless you also update the image paths in this README.
-
----
-
 # 📈 Sample Results
 
 Based on the executed SQL screenshots, the project produced results such as:
