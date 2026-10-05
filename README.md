@@ -280,39 +280,36 @@ GROUP BY book_id;
 
 ---
 
-# 📸 Project Showcase
+# 📸 Screenshots
 
 The following screenshots are included in the `assets/` folder so that they display correctly when this README is uploaded to GitHub.
 
 ## 🖥️ 1. Database Import & Execution
 
-![MySQL database import and execution](assets/S1.png)
+<img width="1920" height="945" alt="S1" src="https://github.com/user-attachments/assets/edd8ee01-1da9-4039-babc-bc894008cc59" />
 
-This screenshot showcases the SQL script being loaded into MySQL and the database/table creation and data operations being executed.
 
 ## 📚 2. Book Data & Query Results
 
-![Book table and query results](assets/S2.png)
+<img width="1920" height="949" alt="S2" src="https://github.com/user-attachments/assets/ac22f62d-d2ea-4bd3-8859-0f179a89436c" />
 
-This screenshot showcases the `Books` table and multiple query outputs, including filtering and sorting results.
 
 ## 📊 3. Book Analysis Results
 
-![Book analysis results](assets/S3.png)
+<img width="1920" height="937" alt="S3" src="https://github.com/user-attachments/assets/0d9abe67-bead-4e91-8384-ad18b6975ba6" />
 
-This screenshot showcases book records and category-wise analysis results.
 
 ## 📈 4. Aggregate & Join Results
 
-![Aggregate and join query results](assets/S4.png)
+<img width="1920" height="954" alt="S4" src="https://github.com/user-attachments/assets/87723c27-96e6-470e-b7e0-069ee984164f" />
 
-This screenshot showcases aggregate calculations such as average book price and query results joining books with their authors.
 
 ## 🏆 5. Date, String & Advanced SQL Results
 
-![Advanced SQL query results](assets/S5.png)
+<img width="1920" height="922" alt="S5" src="https://github.com/user-attachments/assets/a394b4aa-6a66-4a62-8710-895030d9fe28" />
+<img width="1920" height="940" alt="S6" src="https://github.com/user-attachments/assets/bbb2f8cb-4fec-4512-a018-18ec88f5eb7f" />
 
-This screenshot showcases publication-year grouping, uppercase title conversion, and other SQL query outputs.
+
 
 > 💡 **GitHub tip:** Keep the `assets` folder beside `README.md`. Do not move or rename the screenshot files unless you also update the image paths in this README.
 
@@ -369,8 +366,6 @@ mysql -u root -p
 ```sql
 SOURCE C:/Users/YourName/Downloads/library_management.sql;
 ```
-
-Replace the path with the actual location of your SQL file.
 
 ### 4️⃣ Select the database
 
@@ -433,4 +428,3 @@ This project can be further extended with a **web or desktop application interfa
 
 ---
 
-⭐ **If you found this project useful, consider giving the repository a star!**
